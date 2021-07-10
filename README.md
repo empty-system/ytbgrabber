@@ -14,10 +14,13 @@ Install the requirements
 # How to run it
 This will give you the help message
 > python ytbgrabber -h
+
 To download only the mp3, use this arg:
 > python ytbgrabber -m <url>
+  
 To get only the thumbnail, use this arg:
 > python ytbgrabber -t <url>
+  
 To download all, use this instead:
 > python ytbgrabber -a <url>
 
