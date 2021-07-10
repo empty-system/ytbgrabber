@@ -1,5 +1,7 @@
 # ytbgrabber
-Downloading Youtube thumbnail and mp3
+I developed this thing purely for educational purposes, I wanted to try and play with the source/url codes and youtube is a place where I spend a lot of time.
+
+Use it at your own risk
 
 # Prerequisites
 * Python 3+
@@ -15,14 +17,14 @@ Install the requirements
 This will give you the help message
 > python ytbgrabber -h
 
-To download only the mp3, use this arg:
-> python ytbgrabber -m <url>
+To download only the mp3
+> python ytbgrabber -m url
   
-To get only the thumbnail, use this arg:
-> python ytbgrabber -t <url>
+To get only the thumbnail
+> python ytbgrabber -t url
   
-To download all, use this instead:
-> python ytbgrabber -a <url>
+To download all
+> python ytbgrabber -a url
 
 # How to contribute
 > I'm really not an expert in Python, if you have any council i would appreciate it.
