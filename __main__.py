@@ -27,7 +27,7 @@ def main():
 
     try:
         go(options.url, options.t, options.m, options.a)
-        current_path = Path(os.getcwd()).joinpath('ytbgrabber', date_file)
+        current_path = Path(os.getcwd()).joinpath(date_file)
         print(f"Files are at {current_path}")
     except AttributeError:
         print("Requires at least one positional argument, see ytbgrabber -h")
