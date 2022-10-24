@@ -25,9 +25,3 @@ To get only the thumbnail
   
 To download all
 > python ytbgrabber -a url
-
-# How to contribute
-> I'm really not an expert in Python, if you have any council i would appreciate it.
-
-# Contact
-Discord: empty#0007
